@@ -2,7 +2,7 @@
 
 ## Original Cleaner
 
-Hi Guys, Created Small application to Clean Temp Files Just by Double Clicking it.
+Hi Guys, Created Small application to Clean Temp Files Just by Double Clicking it. (Especially for Those who hesitate to use Third party apps)
 
 It'll Do Following Actions (**CMD Windows May Pops-up**, Don't Panic 😂)
   
