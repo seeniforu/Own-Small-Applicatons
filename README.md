@@ -1,5 +1,6 @@
 # Own-Small-Applicatons
 
+## Original Cleaner
 
 Hi Guys, Created Small application to Clean Temp Files Just by Double Clicking it.
 
@@ -13,6 +14,16 @@ You can use it,
 
   - After browsing Long time in Internet.
   - When you feel System is Bit slow.
+
+If I found new way to clear Cache and Temp Items, I'll Update in My Application.
+
+### How to use... 
+
+**Just Double Click and Give "Yes"**. That's it.
+
+## Hide and Un-hide Items 
+
+Coming Soon....😆
 
 
 
