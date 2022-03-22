@@ -19,7 +19,7 @@ If I found new way to clear Cache and Temp Items, I'll Update in My Application.
 
 ### How to use... 
 
-**Just Double Click and Give "Yes"**. That's it.
+**Download the [Exe file](https://github.com/seeniforu/Own-Small-Applicatons/blob/main/Original%20Cleaner/cleaner.exe), Just Double Click the and Give "Yes"**. That's it.
 
 ## Hide and Un-hide Items 
 
