@@ -23,7 +23,13 @@ If I found new way to clear Cache and Temp Items, I'll Update in My Application.
 
 ## Hide and Un-hide Items 
 
-Coming Soon....😆
+Points to remember :
+
+- **Default password is 'hello'** - will Work on everyone having their own password.
+- **File Name is Important. 
+- Once you Hide the file and need to Unhide it **Name of the File is Must**. User need to Type the complete filename with Extension to Unhide it.
+
+Executable file size maybe High.
 
 
 
