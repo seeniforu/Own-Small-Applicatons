@@ -25,8 +25,9 @@ If I found new way to clear Cache and Temp Items, I'll Update in My Application.
 
 Points to remember :
 
-- **Default password is 'hello'** - will Work on everyone having their own password.
-- **File Name is Important. 
+- **Default Password is 'hello'** - will Work on everyone having their own password.
+- **File Name is Important.**
+- **Executable file** must be in the location of the File Item User want to hide. 
 - Once you Hide the file and need to Unhide it **Name of the File is Must**. User need to Type the complete filename with Extension to Unhide it.
 
 Executable file size maybe High.
